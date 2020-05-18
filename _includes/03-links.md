@@ -1,1 +1,1 @@
-![responsible](https://www.selfauthoring.com)
+![responsiblity](www.selfauthoring.com)
