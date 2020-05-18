@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+**Favorite Things**
+  1. Faith
+  2. Family
+  3. Friends
